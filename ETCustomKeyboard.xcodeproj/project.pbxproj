@@ -421,6 +421,7 @@
 				7FBEB4E719D950B30059307A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7FBEB4E819D950B30059307A /* Build configuration list for PBXNativeTarget "ETCustomKeyboardTests" */ = {
 			isa = XCConfigurationList;
@@ -429,6 +430,7 @@
 				7FBEB4EA19D950B30059307A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
